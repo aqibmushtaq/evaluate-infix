@@ -12,6 +12,10 @@ Example inputs
 - 2*(3+4)
 - (2+3+52)*54
 
+Usage
+------
+You can import the project with IntelliJ
+
 Bugs
 -----
 There are a few bugs still within the code.
