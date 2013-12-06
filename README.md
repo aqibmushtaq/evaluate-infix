@@ -20,7 +20,9 @@ Bugs
 -----
 There are a few bugs still within the code.
 
-Example 
+Examples
+
     3+4*5-1
+
     (1+2)*-1
 	
