@@ -1,0 +1,30 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Netbeans
+dist/
+
+# Mac
+.DS_Store
+
+# Windows
+*.bat
+
+# Maven
+log/
+target/
